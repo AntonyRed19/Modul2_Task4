@@ -9,6 +9,7 @@ namespace SafariPark.Hierarchy.Enums
     public enum Detachment
     {
         Predatory,
-        Herbivores
+        Herbivores,
+        Falcons
     }
 }

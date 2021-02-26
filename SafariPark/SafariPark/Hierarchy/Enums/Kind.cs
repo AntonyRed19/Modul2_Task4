@@ -9,6 +9,7 @@ namespace SafariPark.Hierarchy.Enums
     public enum Kind
     {
         African,
-        SomeZebra
+        SomeZebra,
+        SomeEagle
     }
 }
