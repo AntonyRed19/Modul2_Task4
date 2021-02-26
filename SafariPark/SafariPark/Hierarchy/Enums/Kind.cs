@@ -10,6 +10,8 @@ namespace SafariPark.Hierarchy.Enums
     {
         African,
         SomeZebra,
-        SomeEagle
+        SomeEagle,
+        SomeCrocodile,
+        SomeFrog
     }
 }

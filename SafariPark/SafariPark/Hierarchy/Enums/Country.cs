@@ -11,6 +11,7 @@ namespace SafariPark.Hierarchy.Enums
         USA,
         Botswana,
         SouthAfrica,
-        Canada
+        Egypt,
+        Ukraine
     }
 }

@@ -9,7 +9,6 @@ namespace SafariPark.Hierarchy.Enums
     public enum Classes
     {
         Bird,
-        Fish,
         Amphibian,
         Mammals,
         Reptile

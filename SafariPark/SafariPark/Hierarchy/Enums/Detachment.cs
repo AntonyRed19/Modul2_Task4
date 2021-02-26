@@ -10,6 +10,8 @@ namespace SafariPark.Hierarchy.Enums
     {
         Predatory,
         Herbivores,
-        Falcons
+        Falcons,
+        Crocodile,
+        TaillessAmphibians
     }
 }

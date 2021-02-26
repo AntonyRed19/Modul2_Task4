@@ -10,6 +10,8 @@ namespace SafariPark.Hierarchy.Enums
     {
         Cats,
         Hawk,
-        Hourses
+        Hourses,
+        RealCrocodile,
+        Frogs
     }
 }
