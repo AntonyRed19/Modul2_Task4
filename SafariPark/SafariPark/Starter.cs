@@ -31,7 +31,7 @@ namespace SafariPark
 
             for (int i = 0; i < animal.KindofAnimals.Length; i++)
             {
-                Console.WriteLine($"Name: {animal.KindofAnimals[i].Name} Age: {animal.KindofAnimals[i].Age}");
+                Console.WriteLine($"Name: {animal.KindofAnimals[i].Name} Kind: {animal.KindofAnimals[i].Kind} Age: {animal.KindofAnimals[i].Age} Weight: {animal.KindofAnimals[i].Weigh} Growth: {animal.KindofAnimals[i].Growth} LifeTime: {animal.KindofAnimals[i].LifeTime} DateArrival: {animal.KindofAnimals[i].DateArrival} HomeCountry: {animal.KindofAnimals[i].HomeCountry}");
             }
 
             Console.WriteLine($"Count of Animals: {animal.Count}");
