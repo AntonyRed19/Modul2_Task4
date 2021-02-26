@@ -10,6 +10,10 @@ namespace SafariPark.Hierarchy.Animals
 {
     public class Frog : KindofAnimal
     {
+        public Frog()
+        {
+        }
+
         public override Kind Kind => Kind.SomeFrog;
 
         public override Family Family => Family.Frogs;

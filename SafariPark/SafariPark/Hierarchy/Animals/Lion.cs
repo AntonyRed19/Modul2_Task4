@@ -9,6 +9,10 @@ namespace SafariPark.Hierarchy.Animals
 {
     public class Lion : KindofAnimal
     {
+        public Lion()
+        {
+        }
+
         public override Kind Kind => Kind.African;
         public override Family Family => Family.Cats;
         public override Detachment Detachment => Detachment.Predatory;

@@ -10,6 +10,10 @@ namespace SafariPark.Hierarchy.Animals
 {
     public class Zebra : KindofAnimal
     {
+        public Zebra()
+        {
+        }
+
         public override Kind Kind => Kind.SomeZebra;
 
         public override Family Family => Family.Hourses;
