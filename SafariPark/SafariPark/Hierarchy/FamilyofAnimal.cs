@@ -7,8 +7,8 @@ using SafariPark.Hierarchy.Enums;
 
 namespace SafariPark.Hierarchy
 {
-    public abstract class FamilyofAnimal
+    public abstract class FamilyofAnimal : DetachmentofAnimal
     {
-        public abstract Family Family { get; set; }
+        public abstract Family Family { get; }
     }
 }

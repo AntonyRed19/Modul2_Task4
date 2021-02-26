@@ -9,14 +9,14 @@ namespace SafariPark.Hierarchy
 {
     public abstract class Animal
     {
-        public abstract double Weigh { get; set; }
-        public abstract double Growth { get; set; }
-        public abstract string Name { get; set; }
-        public abstract Country HomeCountry { get; set; }
+        public abstract double Weigh { get; }
+        public abstract double Growth { get; }
+        public abstract string Name { get; }
+        public abstract Country HomeCountry { get; }
 
-        public abstract DateTime DateArrival { get; set; }
+        public abstract DateTime DateArrival { get; }
 
-        public abstract TimeSpan LifeTime { get; set; }
-        public abstract int Age { get; set; }
+        public abstract int LifeTime { get; }
+        public abstract int Age { get; }
     }
 }

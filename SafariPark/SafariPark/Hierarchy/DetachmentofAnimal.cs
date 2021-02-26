@@ -9,6 +9,6 @@ namespace SafariPark.Hierarchy
 {
     public abstract class DetachmentofAnimal : ClassofAnimal
     {
-        public abstract Detachment Detachment { get; set; }
+        public abstract Detachment Detachment { get; }
     }
 }

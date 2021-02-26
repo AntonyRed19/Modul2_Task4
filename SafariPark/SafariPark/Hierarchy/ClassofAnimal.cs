@@ -9,6 +9,6 @@ namespace SafariPark.Hierarchy
 {
     public abstract class ClassofAnimal : Animal
     {
-        public abstract Classes Classes { get; set; }
+        public abstract Classes Classes { get; }
     }
 }

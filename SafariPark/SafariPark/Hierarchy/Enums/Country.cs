@@ -10,7 +10,7 @@ namespace SafariPark.Hierarchy.Enums
     {
         USA,
         Botswana,
-        Ukraine,
+        SouthAfrica,
         Canada
     }
 }

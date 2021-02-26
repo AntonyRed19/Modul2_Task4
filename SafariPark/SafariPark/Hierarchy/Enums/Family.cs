@@ -9,6 +9,7 @@ namespace SafariPark.Hierarchy.Enums
     public enum Family
     {
         Cats,
-        Dogs
+        Dogs,
+        Hourses
     }
 }
